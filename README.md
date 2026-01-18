@@ -7,6 +7,8 @@
 <a name="english"></a>
 ## English
 
+> <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here are the full transcripts from all 320 of my podcast episodes.<br><br>It&#39;s been super fun for me to play with AI to extract insights from this data. Now you can to.<br><br>My only ask is that if you do something cool with it, just let me know.<br><br>I&#39;ll keep this folder updated with as each…</p>&mdash; Lenny Rachitsky (@lennysan) <a href="https://twitter.com/lennysan/status/2011243567340298651?ref_src=twsrc%5Etfw">January 14, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Overview
 
 A curated collection of **Standard Operating Procedures (SOPs)** extracted from [Lenny's Podcast](https://www.lennyspodcast.com/) - the #1 podcast for product management and growth. These SOPs transform expert insights into actionable frameworks you can apply immediately.
@@ -15,6 +17,17 @@ A curated collection of **Standard Operating Procedures (SOPs)** extracted from 
 > Tier 3 & 4 in progress (~750-1,150 SOPs remaining from ~280 transcripts)
 
 ### What's Included
+
+#### SOPs vs Skills: When to Use Each
+
+| Format | Best For | Use Case |
+|--------|----------|----------|
+| **SOPs** (`/sops`) | Deep learning & long-form content | Writing articles, creating training materials, teaching frameworks in-depth, or when you need the full context and methodology |
+| **Skills** (`/skills`) | Quick reference & AI integration | Real-time decision support, getting instant recommendations, when you need fast actionable guidance during work |
+
+**Example**: Use the SPADE SOP when writing a blog post about decision frameworks. Use `/decision-maker` skill when you're in a meeting and need quick guidance on structuring a decision.
+
+---
 
 #### 9 Claude Code Skills
 
@@ -141,6 +154,8 @@ This project extracts and organizes publicly available podcast content for educa
 <a name="中文"></a>
 ## 中文
 
+> <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here are the full transcripts from all 320 of my podcast episodes.<br><br>It&#39;s been super fun for me to play with AI to extract insights from this data. Now you can to.<br><br>My only ask is that if you do something cool with it, just let me know.<br><br>I&#39;ll keep this folder updated with as each…</p>&mdash; Lenny Rachitsky (@lennysan) <a href="https://twitter.com/lennysan/status/2011243567340298651?ref_src=twsrc%5Etfw">January 14, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### 项目概述
 
 这是一个从 [Lenny's Podcast](https://www.lennyspodcast.com/)（产品管理和增长领域排名第一的播客）中提取的**标准操作程序（SOP）**合集。这些 SOP 将专家洞见转化为可立即应用的实用框架。
@@ -149,6 +164,17 @@ This project extracts and organizes publicly available podcast content for educa
 > Tier 3 & 4 进行中（约 280 个播客待处理，预计 750-1,150 个 SOP）
 
 ### 包含内容
+
+#### SOP 与 Skills 的区别：何时使用
+
+| 格式 | 最适合 | 使用场景 |
+|------|--------|----------|
+| **SOP** (`/sops`) | 深度学习和长篇内容 | 撰写文章、创建培训材料、深入讲解框架，或当你需要完整的背景和方法论时 |
+| **Skills** (`/skills`) | 快速参考和 AI 集成 | 实时决策支持、获取即时建议、工作中需要快速可执行指导时 |
+
+**示例**：撰写关于决策框架的博客文章时使用 SPADE SOP；在会议中需要快速了解如何构建决策时使用 `/decision-maker` 技能。
+
+---
 
 #### 9 个 Claude Code 技能
 

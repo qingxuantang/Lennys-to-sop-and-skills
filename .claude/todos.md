@@ -47,9 +47,14 @@ Read the [guide.md](guide.md) to understand this project each time, then go to t
    - Implementation timeline with 9 phases
 
 
+[x] 8. **26-1-18**: Embed Lenny's tweet to the top of both Chinese and English versions of README.md
+   - Added Twitter embed block after language selector in both sections
 
-
-
+[x] 9. **26-1-18**: Emphasize the importance of SOPs vs Skills in README.md
+   - Added "SOPs vs Skills: When to Use Each" section in English
+   - Added "SOP 与 Skills 的区别：何时使用" section in Chinese
+   - SOPs: Better for deep learning, long-form content, writing articles, training materials
+   - Skills: Better for quick reference, AI integration, real-time decision support
 
 
 

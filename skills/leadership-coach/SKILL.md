@@ -421,9 +421,54 @@ Can you change it? How?
 - `/hiring-guide` - For building teams
 
 ## Full SOPs (Deep Dives)
+
+### Core Leadership
 - [Radical Candor](../../../sops/leadership/radical-candor-framework-001.md)
 - [Selective Micromanagement](../../../sops/leadership/selective-micromanagement-001.md)
 - [Managing Complex Change](../../../sops/leadership/managing-complex-change-001.md)
 - [Bloom's Taxonomy Coaching](../../../sops/leadership/blooms-taxonomy-coaching-001.md)
 - [Coaching Tree](../../../sops/leadership/coaching-tree-leadership-001.md)
 - [Career Impact](../../../sops/leadership/career-impact-framework-001.md)
+
+### Founder & Executive
+- [Founder Mode](../../../sops/leadership/founder-mode-operating-system-001.md)
+- [Company Operating System](../../../sops/leadership/company-operating-system-001.md)
+- [Personal Operating Principles](../../../sops/leadership/personal-operating-principles-001.md)
+- [100-Year Thinking](../../../sops/leadership/100-year-thinking-framework-001.md)
+- [Technical Founder Leadership](../../../sops/leadership/technical-founder-leadership-001.md)
+- [Trust-Based Culture](../../../sops/leadership/trust-based-high-performance-culture-001.md)
+- [Beginner's Mind](../../../sops/leadership/beginners-mind-innovation-practice-001.md)
+
+### Emotional Intelligence
+- [Fear/Anger Decision](../../../sops/leadership/fear-anger-decision-framework-001.md)
+- [Energy Audit](../../../sops/leadership/energy-audit-framework-001.md)
+- [Creative vs Reactive Leadership](../../../sops/leadership/creative-vs-reactive-leadership-framework-001.md)
+
+### Difficult Conversations
+- [Compassionate Firing](../../../sops/leadership/compassionate-firing-framework-001.md)
+- [Large-Scale Layoffs](../../../sops/leadership/large-scale-layoff-process-001.md)
+
+### Culture Building
+- [Culture Code Creation](../../../sops/leadership/culture-code-creation-001.md)
+- [Culture as Product](../../../sops/leadership/culture-as-product-framework-001.md)
+
+### Engineering Leadership
+- [Engineering Management Ladder](../../../sops/leadership/engineering-management-ladder-001.md)
+- [Manager to Manager-of-Managers](../../../sops/leadership/manager-to-manager-of-managers-transition-001.md)
+- [Skip-Level Meetings](../../../sops/leadership/skip-level-meetings-framework-001.md)
+- [Platform Teams](../../../sops/leadership/engineering-org-design-platform-teams-001.md)
+- [Staff Engineer Sponsorship](../../../sops/leadership/staff-engineer-sponsorship-framework-001.md)
+- [Engineering Strategy](../../../sops/leadership/engineering-strategy-development-001.md)
+- [EM-PM Partnership](../../../sops/leadership/em-pm-partnership-framework-001.md)
+
+### Career Development
+- [Career as Product](../../../sops/leadership/career-as-product-framework-001.md)
+- [30-60-90 Onboarding](../../../sops/leadership/30-60-90-day-onboarding-plan-001.md)
+- [Executive Coaching](../../../sops/leadership/executive-coaching-framework-001.md)
+- [Introverts Workplace Success](../../../sops/leadership/introverts-workplace-success-framework-001.md)
+
+### Personal Development
+- [Radical Self-Inquiry](../../../sops/personal-development/radical-self-inquiry-framework-001.md)
+- [Leadership Authenticity](../../../sops/personal-development/leadership-authenticity-framework-001.md)
+- [GENIE Goal Setting](../../../sops/personal-development/genie-framework-career-goal-setting-001.md)
+- [Overcoming Imposter Syndrome](../../../sops/personal-development/overcoming-imposter-syndrome-001.md)

@@ -342,8 +342,36 @@ Ask: "If we execute perfectly on this strategy, could we succeed?"
 - `/growth-advisor` - For growth strategy specifically
 
 ## Full SOPs (Deep Dives)
+
+### Product Strategy
 - [Product Strategy Stack](../../../sops/product-management/strategy/product-strategy-stack-001.md)
 - [DHM Framework](../../../sops/product-management/strategy/dhm-product-strategy-framework-001.md)
 - [Seven Powers](../../../sops/strategy/seven-powers-assessment-001.md)
 - [Execution vs Strategy](../../../sops/product-management/strategy/execution-vs-strategy-diagnosis-001.md)
 - [Execution Over Strategy](../../../sops/product-management/strategy/execution-over-strategy-001.md)
+- [Differentiation vs Table Stakes](../../../sops/product-management/strategy/differentiation-vs-table-stakes-001.md)
+- [Ship to Learn](../../../sops/product-management/strategy/ship-to-learn-rd-philosophy-001.md)
+- [Swinging the Pendulum](../../../sops/product-management/strategy/swinging-the-pendulum-001.md)
+
+### AI Strategy
+- [AI Eval-Driven Development](../../../sops/product-management/strategy/ai-eval-driven-product-development-001.md)
+- [AI Platform Strategy](../../../sops/product-management/strategy/ai-platform-product-strategy-001.md)
+- [AI Product Strategy Assessment](../../../sops/product-management/strategy/ai-product-strategy-assessment-001.md)
+- [AI Product Differentiation](../../../sops/product-management/strategy/ai-product-differentiation-strategy-001.md)
+- [Consumer AI Metrics](../../../sops/product-management/strategy/consumer-ai-product-metrics-001.md)
+- [Product Team Scaling AI Era](../../../sops/product-management/strategy/product-team-scaling-ai-era-001.md)
+- [AI-First Product Transformation](../../../sops/product-management/strategy/ai-first-product-transformation-001.md)
+
+### Startup Strategy
+- [Startup Idea Validation](../../../sops/strategy/startup-idea-validation-001.md)
+- [Founder-Market Fit](../../../sops/strategy/founder-market-fit-assessment-001.md)
+- [Avoiding Tarpit Ideas](../../../sops/strategy/avoiding-tarpit-ideas-001.md)
+- [Fall in Love with Problem](../../../sops/strategy/fall-in-love-with-problem-001.md)
+- [PMF Iteration Journey](../../../sops/strategy/product-market-fit-iteration-journey-001.md)
+- [Crisis Management](../../../sops/strategy/startup-crisis-management-persistence-001.md)
+
+### Pivot & Positioning
+- [Pivot Decision Framework](../../../sops/strategy/pivot-decision-framework-001.md)
+- [Bottom-Up Enterprise](../../../sops/strategy/bottom-up-enterprise-adoption-001.md)
+- [Utility Curve Investment](../../../sops/strategy/utility-curve-product-investment-001.md)
+- [Customer Value First](../../../sops/strategy/customer-value-first-principles-001.md)

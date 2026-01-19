@@ -13,8 +13,8 @@
 
 A curated collection of **Standard Operating Procedures (SOPs)** extracted from [Lenny's Podcast](https://www.lennyspodcast.com/) - the #1 podcast for product management and growth. These SOPs transform expert insights into actionable frameworks you can apply immediately.
 
-> **Current Status**: Tier 1 & 2 Complete (52 SOPs / 9 Claude Skills)
-> Tier 3 & 4 in progress (~750-1,150 SOPs remaining from ~280 transcripts)
+> **Current Status**: Tier 1-3 Complete (225 SOPs / 9 Claude Skills)
+> Final extraction phase complete. Additional transcripts may be processed in future updates.
 
 ### What's Included
 
@@ -43,23 +43,31 @@ These skills bundle related SOPs for easy access. Use them in [Claude Code](http
 | `/goal-setter` | Goals & prioritization | NCT Goal Setting, GEM Prioritization, LNO Time Management |
 | `/hiring-guide` | Hiring PMs and leaders | First PM Hiring, Hiring Leaders, PM Competencies for interviews |
 | `/gtm-advisor` | Go-to-market strategy | Champion Persona, Five Component Positioning, JTBD, Four Forces, Willingness to Pay |
-| `/sop-library` | Browse all 52 SOPs | Master index by domain, situation, and source |
+| `/sop-library` | Browse all 225 SOPs | Master index by domain, situation, and source |
 
-#### 52 SOPs by Domain
+**Note:** The 9 skills are domain bundles, not individual SOP wrappers. This was an intentional design decision from the original plan. The 9 domain categories (decision-maker, pm-coach, strategy-advisor, growth-advisor, leadership-coach, goal-setter, hiring-guide, gtm-advisor, sop-library) comprehensively cover all content from Lenny's Podcast. New SOPs get added to the appropriate existing skill rather than creating new skill categories.
+
+Example: When we extracted 40+ leadership SOPs, they all enriched /leadership-coach with new sections (Founder Mode, Emotional Intelligence, Culture Building, etc.) rather than creating /founder-mode-skill, /emotional-intelligence-skill, etc.
+
+#### 225 SOPs by Domain
 
 | Domain | Count | Key Frameworks |
 |--------|-------|----------------|
-| Leadership | 9 | Radical Candor, Founder Mode, Company OS |
-| Growth | 8+ | Adjacent User Theory, PLG, Kindle Fire |
-| PM Skills | 7 | PM Competencies, Product Sense, High Agency |
-| Product Strategy | 5 | Strategy Stack, DHM, Seven Powers |
-| Go-to-Market | 5 | JTBD, Positioning, Willingness to Pay |
-| Prioritization & Goals | 5 | NCT, GEM, LNO, Pre-Mortem |
-| Decision Making | 3 | SPADE, Nominal Group, Kill Criteria |
-| Discovery | 2 | Empowered Teams, Opportunity Solution Tree |
-| Hiring | 2 | First PM, Hiring Leaders |
-| Communication | 2 | Executive Communication, Metaphor Alignment |
-| Other | 4 | A/B Testing, Independent Opinion |
+| Leadership | 40+ | Radical Candor, Founder Mode, Engineering Management, Culture |
+| Growth | 40+ | Adjacent User Theory, PLG, Marketplaces, Virality |
+| PM Skills | 20+ | PM Competencies, Product Sense, High Agency, AI-Era PM |
+| Product Strategy | 20+ | Strategy Stack, DHM, Seven Powers, AI Strategy |
+| Go-to-Market | 8+ | JTBD, Positioning, Developer Tools, Technical Marketing |
+| Sales | 8 | Founder-Led Sales, B2B Playbook, Enterprise Sales |
+| Pricing | 5 | SaaS Pricing, Value Metrics, Willingness to Pay |
+| Discovery | 15+ | Lean MVP, Design Sprint, PMF Measurement |
+| Goals & Prioritization | 10+ | OKRs, NCT, GEM, LNO, Pre-Mortem |
+| Decision Making | 4 | SPADE, Nominal Group, Kill Criteria, Pivot |
+| Communication | 11 | Presentations, Public Speaking, Executive Comm |
+| Hiring | 3 | First PM, Hiring Leaders, PM Intangibles |
+| Behavioral Design | 4 | Three Bs, Friction Audit, Defaults |
+| Roadmapping | 4 | Now-Next-Later, Stakeholder Alignment |
+| Delivery | 5 | Shape Up, Six-Week Cycles, Hill Charts |
 
 #### Expert Sources (20+)
 
@@ -136,10 +144,10 @@ Browse the `/sops` directory for detailed step-by-step procedures. Each SOP incl
 |-------|--------|-------------|
 | Tier 1 | ✅ Complete | High-impact transcripts (20 episodes) → 35 SOPs |
 | Tier 2 | ✅ Complete | Important transcripts (30 episodes) → 17 SOPs |
-| Tier 3 | 🔄 In Progress | Standard transcripts (~150 episodes) |
-| Tier 4 | ⏳ Planned | Remaining transcripts (~130 episodes) |
+| Tier 3 | ✅ Complete | Additional expert transcripts (80+ episodes) → 173 SOPs |
+| Tier 4 | ⏳ Future | Remaining transcripts for community contribution |
 
-**Estimated Total**: 800-1,200 SOPs when complete
+**Current Total**: 225 SOPs from 80+ expert sources
 
 ### Contributing
 
@@ -160,8 +168,8 @@ This project extracts and organizes publicly available podcast content for educa
 
 这是一个从 [Lenny's Podcast](https://www.lennyspodcast.com/)（产品管理和增长领域排名第一的播客）中提取的**标准操作程序（SOP）**合集。这些 SOP 将专家洞见转化为可立即应用的实用框架。
 
-> **当前状态**：最重要的Tier 1 & 2 已完成（约50个播客，52 个 SOP / 9 个 Claude 技能）
-> Tier 3 & 4 进行中（约 280 个播客待处理，预计 750-1,150 个 SOP）
+> **当前状态**：Tier 1-3 已完成（225 个 SOP / 9 个 Claude 技能）
+> 提取阶段已完成。后续可能处理更多播客。
 
 ### 包含内容
 
@@ -190,23 +198,31 @@ This project extracts and organizes publicly available podcast content for educa
 | `/goal-setter` | 目标与优先级 | NCT 目标设定、GEM 优先级排序、LNO 时间管理 |
 | `/hiring-guide` | 招聘 PM 和领导者 | 首位 PM 招聘、招聘领导者、面试能力评估 |
 | `/gtm-advisor` | 上市策略 | 支持者画像、五要素定位、JTBD、四种力量、支付意愿研究 |
-| `/sop-library` | 浏览全部 52 个 SOP | 按领域、场景、来源索引 |
+| `/sop-library` | 浏览全部 225 个 SOP | 按领域、场景、来源索引 |
 
-#### 52 个 SOP（按领域分类）
+**说明：** 这 9 个技能是按领域打包的，而不是每个 SOP 单独一个技能。这是原始设计方案中的刻意决定。这 9 个领域类别（decision-maker、pm-coach、strategy-advisor、growth-advisor、leadership-coach、goal-setter、hiring-guide、gtm-advisor、sop-library）全面覆盖了 Lenny's Podcast 的所有内容。新的 SOP 会被添加到相应的现有技能中，而不是创建新的技能类别。
+
+示例：当我们提取了 40+ 个领导力 SOP 时，它们都被整合到 /leadership-coach 中，增加了新的章节（创始人模式、情商、文化建设等），而不是创建 /founder-mode-skill、/emotional-intelligence-skill 等单独的技能。
+
+#### 225 个 SOP（按领域分类）
 
 | 领域 | 数量 | 核心框架 |
 |------|------|----------|
-| 领导力 | 9 | 彻底坦诚、创始人模式、公司操作系统 |
-| 增长 | 8+ | 相邻用户理论、PLG、Kindle Fire |
-| PM 技能 | 7 | PM 能力模型、产品感觉、高主动性 |
-| 产品战略 | 5 | 战略栈、DHM、七种力量 |
-| 上市策略 | 5 | JTBD、定位、支付意愿 |
-| 优先级与目标 | 5 | NCT、GEM、LNO、事前验尸 |
-| 决策 | 3 | SPADE、名义小组法、终止标准 |
-| 发现 | 2 | 赋能团队、机会解决方案树 |
-| 招聘 | 2 | 首位 PM、招聘领导者 |
-| 沟通 | 2 | 高管沟通、隐喻对齐 |
-| 其他 | 4 | A/B 测试、独立意见 |
+| 领导力 | 40+ | 彻底坦诚、创始人模式、工程管理、文化 |
+| 增长 | 40+ | 相邻用户理论、PLG、市场平台、病毒传播 |
+| PM 技能 | 20+ | PM 能力模型、产品感觉、高主动性、AI 时代 PM |
+| 产品战略 | 20+ | 战略栈、DHM、七种力量、AI 战略 |
+| 上市策略 | 8+ | JTBD、定位、开发者工具、技术营销 |
+| 销售 | 8 | 创始人销售、B2B 销售手册、企业销售 |
+| 定价 | 5 | SaaS 定价、价值指标、支付意愿 |
+| 发现 | 15+ | 精益 MVP、设计冲刺、PMF 测量 |
+| 目标与优先级 | 10+ | OKR、NCT、GEM、LNO、事前验尸 |
+| 决策 | 4 | SPADE、名义小组法、终止标准、转型 |
+| 沟通 | 11 | 演讲、公开演讲、高管沟通 |
+| 招聘 | 3 | 首位 PM、招聘领导者、PM 软技能 |
+| 行为设计 | 4 | 三B框架、摩擦审计、默认值 |
+| 路线图 | 4 | Now-Next-Later、利益相关者对齐 |
+| 交付 | 5 | Shape Up、六周周期、Hill Charts |
 
 #### 专家来源（20+位）
 
@@ -283,10 +299,10 @@ This project extracts and organizes publicly available podcast content for educa
 |------|------|------|
 | Tier 1 | ✅ 完成 | 高影响力播客（20 期）→ 35 个 SOP |
 | Tier 2 | ✅ 完成 | 重要播客（30 期）→ 17 个 SOP |
-| Tier 3 | 🔄 进行中 | 标准播客（约 150 期） |
-| Tier 4 | ⏳ 计划中 | 剩余播客（约 130 期） |
+| Tier 3 | ✅ 完成 | 额外专家播客（80+ 期）→ 173 个 SOP |
+| Tier 4 | ⏳ 未来 | 剩余播客供社区贡献 |
 
-**预计总计**：完成后 800-1,200 个 SOP
+**当前总计**：来自 80+ 位专家的 225 个 SOP
 
 ### 贡献
 

@@ -458,8 +458,37 @@ All potential features/capabilities
 - `/decision-maker` - For GTM decisions
 
 ## Full SOPs (Deep Dives)
+
+### Positioning & Customer Research
 - [Champion Persona](../../../sops/go-to-market/champion-persona-framework-001.md)
 - [Five Component Positioning](../../../sops/positioning/five-component-positioning-framework-001.md)
 - [JTBD Interviews](../../../sops/customer-research/jobs-to-be-done-interview-framework-001.md)
 - [Four Forces](../../../sops/customer-research/four-forces-demand-analysis-001.md)
+
+### Pricing
 - [Willingness to Pay](../../../sops/pricing/willingness-to-pay-research-001.md)
+- [SaaS Pricing Optimization](../../../sops/pricing/saas-pricing-optimization-framework-001.md)
+- [Value Metrics Identification](../../../sops/pricing/value-metrics-identification-001.md)
+- [Pricing Page Best Practices](../../../sops/pricing/pricing-page-best-practices-001.md)
+- [Churn Reduction Tactics](../../../sops/pricing/churn-reduction-tactical-retention-001.md)
+
+### Sales
+- [Founder-Led Sales](../../../sops/sales/founder-led-sales-methodology-001.md)
+- [B2B Sales Playbook](../../../sops/sales/b2b-sales-playbook-creation-001.md)
+- [First 10 Customers](../../../sops/sales/first-ten-customers-acquisition-001.md)
+- [Sales Motion Discovery](../../../sops/sales/sales-motion-discovery-001.md)
+- [Founder to Sales Team](../../../sops/sales/founder-to-sales-team-transition-001.md)
+- [Enterprise Sales for Startups](../../../sops/sales/enterprise-sales-for-startups-001.md)
+- [First Sales Hire](../../../sops/sales/first-sales-hire-process-001.md)
+- [Sales Team Scaling](../../../sops/sales/sales-team-scaling-framework-001.md)
+
+### Developer Tools
+- [Developer Experience Design](../../../sops/go-to-market/developer-experience-design-principles-001.md)
+- [Developer Tool Company Building](../../../sops/go-to-market/developer-tool-company-building-001.md)
+- [Open Source to Enterprise](../../../sops/go-to-market/open-source-to-enterprise-strategy-001.md)
+- [Technical Product Marketing](../../../sops/go-to-market/technical-product-marketing-framework-001.md)
+
+### Communication
+- [Executive Communication](../../../sops/communication/executive-communication-framework-001.md)
+- [Presentation Structure](../../../sops/communication/presentation-structure-what-is-what-could-be-001.md)
+- [Spontaneous Speaking](../../../sops/communication/spontaneous-speaking-framework-001.md)

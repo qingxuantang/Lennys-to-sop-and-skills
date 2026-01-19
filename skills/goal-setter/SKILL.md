@@ -319,6 +319,19 @@ Ask:
 - `/pm-coach` - For time management skill development
 
 ## Full SOPs (Deep Dives)
+
+### Goal Setting
 - [NCT Goal Setting](../../../sops/product-management/goals/nct-goal-setting-001.md)
+- [OKR Setting Framework](../../../sops/product-management/goals/okr-setting-framework-001.md)
+- [OKR Cadence Rituals](../../../sops/product-management/goals/okr-cadence-rituals-002.md)
+- [OKR Pitfalls Diagnosis](../../../sops/product-management/goals/okr-pitfalls-diagnosis-003.md)
+- [Mission-Strategy OKR Alignment](../../../sops/product-management/goals/mission-strategy-okr-alignment-004.md)
+- [GENIE Career Goal Setting](../../../sops/personal-development/genie-framework-career-goal-setting-001.md)
+
+### Prioritization
 - [GEM Prioritization](../../../sops/product-management/prioritization/gem-prioritization-framework-001.md)
-- [LNO Framework](../../../sops/product-management/prioritization/lno-framework-time-management-001.md)
+- [LNO Time Management](../../../sops/product-management/prioritization/lno-framework-time-management-001.md)
+- [Opportunity Cost Mindset](../../../sops/product-management/prioritization/opportunity-cost-mindset-001.md)
+- [Pre-Mortem Technique](../../../sops/product-management/prioritization/pre-mortem-technique-001.md)
+- [Decision Prioritization](../../../sops/product-management/skills/decision-prioritization-framework-001.md)
+- [Three Levels of Work](../../../sops/product-management/skills/three-levels-product-work-001.md)

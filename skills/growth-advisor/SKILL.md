@@ -428,9 +428,49 @@ Not either/or. Many successful companies layer sales on PLG:
 - `/gtm-advisor` - For go-to-market
 
 ## Full SOPs (Deep Dives)
+
+### Core Growth Frameworks
 - [Adjacent User Theory](../../../sops/growth/adjacent-user-theory-001.md)
 - [Understand Work](../../../sops/growth/understand-work-framework-001.md)
 - [Kindle Fire](../../../sops/growth/kindle-fire-growth-strategy-001.md)
 - [Platform Cycle](../../../sops/growth/distribution-platform-cycle-001.md)
 - [Data Network Effects](../../../sops/growth/data-network-effects-001.md)
 - [Instagram Case Study](../../../sops/growth/instagram-growth-case-study-001.md)
+
+### PLG (Product-Led Growth)
+- [PLG Implementation](../../../sops/growth/plg/product-led-sales-implementation-001.md)
+- [Free-to-Paid Conversion](../../../sops/growth/plg/free-to-paid-conversion-optimization-001.md)
+- [PLG Metrics & Benchmarks](../../../sops/growth/plg/plg-metrics-benchmarks-001.md)
+- [PLG Motion Evaluation](../../../sops/growth/plg/plg-motion-evaluation-001.md)
+- [PLG Team Structure JEUE](../../../sops/growth/plg/plg-team-structure-jeue-framework-001.md)
+- [Onboarding Activation](../../../sops/growth/plg/onboarding-activation-optimization-001.md)
+- [Reverse Trial Freemium](../../../sops/growth/plg/reverse-trial-freemium-strategy-001.md)
+- [Word-of-Mouth Growth](../../../sops/growth/plg/word-of-mouth-growth-framework-001.md)
+
+### Engagement & Retention
+- [Hierarchy of Engagement](../../../sops/growth/hierarchy-of-engagement-framework-001.md)
+- [Network Effects Assessment](../../../sops/growth/network-effects-assessment-001.md)
+- [Retention Improvement](../../../sops/growth/retention-improvement-framework-001.md)
+- [User Activation](../../../sops/growth/user-activation-optimization-001.md)
+
+### Marketplaces
+- [Marketplace Hierarchy](../../../sops/growth/marketplace-hierarchy-framework-001.md)
+- [Marketplace Liquidity](../../../sops/growth/marketplace-liquidity-optimization-001.md)
+- [Two-Sided ROI](../../../sops/growth/two-sided-roi-modeling-001.md)
+- [Marketplace Expansion](../../../sops/growth/marketplace-expansion-framework-001.md)
+- [Gardener Framework](../../../sops/growth/marketplace-gardener-framework-001.md)
+
+### Consumer & Virality
+- [Consumer App Virality](../../../sops/growth/consumer-app-virality-mechanics-001.md)
+- [Consumer App Subscription](../../../sops/growth/consumer-app-subscription-playbook-001.md)
+
+### Growth Teams
+- [Growth Team Building](../../../sops/growth/growth-team-building-framework-001.md)
+- [Growth Team Structure](../../../sops/growth/growth-team-structure-001.md)
+- [Growth Experiment Prioritization](../../../sops/growth/growth-experiment-prioritization-audit-framework-001.md)
+- [Growth Leader Hiring](../../../sops/growth/growth-leader-hiring-framework-001.md)
+
+### Enterprise & International
+- [Enterprise B2B Growth](../../../sops/growth/enterprise-b2b-growth-strategy-001.md)
+- [International Expansion](../../../sops/growth/international-expansion-strategy-001.md)
+- [International Product Expansion](../../../sops/growth/plg/international-product-expansion-001.md)

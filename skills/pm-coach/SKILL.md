@@ -431,9 +431,50 @@ When you get feedback you disagree with:
 - `/decision-maker` - For decision-making skills
 
 ## Full SOPs (Deep Dives)
+
+### Core PM Skills
 - [PM Competencies](../../../sops/product-management/skills/pm-competencies-framework-001.md)
 - [Product Sense](../../../sops/product-management/skills/product-sense-development-001.md)
-- [Three Levels](../../../sops/product-management/skills/three-levels-product-work-001.md)
+- [Three Levels of Work](../../../sops/product-management/skills/three-levels-product-work-001.md)
 - [High Agency](../../../sops/product-management/skills/high-agency-development-001.md)
 - [Design Feedback](../../../sops/product-management/skills/design-feedback-framework-001.md)
 - [Product Reviews](../../../sops/product-management/skills/product-review-best-practices-001.md)
+- [PM Storytelling](../../../sops/product-management/skills/pm-storytelling-synthesis-001.md)
+- [Ownership of Why](../../../sops/product-management/skills/pm-ownership-of-why-001.md)
+- [Consumer Product Intuition](../../../sops/product-management/skills/consumer-product-intuition-development-001.md)
+- [Decision Prioritization](../../../sops/product-management/skills/decision-prioritization-framework-001.md)
+- [Writing for Influence](../../../sops/product-management/skills/writing-for-product-influence-001.md)
+- [Platform PM Principles](../../../sops/product-management/skills/platform-pm-principles-001.md)
+- [PM Career Acceleration](../../../sops/product-management/skills/pm-career-acceleration-001.md)
+- [Golden Gut Development](../../../sops/product-management/skills/golden-gut-development-001.md)
+- [First Mile Experience](../../../sops/product-management/skills/first-mile-product-experience-001.md)
+- [Perceived Simplicity](../../../sops/product-management/skills/perceived-simplicity-design-001.md)
+- [Product Quality Dogfooding](../../../sops/product-management/skills/product-quality-through-dogfooding-001.md)
+- [Proximity to Customers](../../../sops/product-management/skills/proximity-to-customers-framework-001.md)
+
+### AI Product Development
+- [AI Era Product Development](../../../sops/product-management/skills/ai-era-product-development-001.md)
+- [AI Differentiation Strategy](../../../sops/product-management/strategy/ai-product-differentiation-strategy-001.md)
+
+### Discovery & Validation
+- [Empowered Teams](../../../sops/product-management/discovery/empowered-product-team-transformation-001.md)
+- [Opportunity Solution Tree](../../../sops/product-management/discovery/opportunity-solution-tree-framework-001.md)
+- [Lean MVP](../../../sops/product-management/discovery/lean-startup-mvp-development-001.md)
+- [Build-Measure-Learn](../../../sops/product-management/discovery/build-measure-learn-loop-001.md)
+- [PMF Measurement](../../../sops/product-management/discovery/product-market-fit-measurement-001.md)
+- [Design Sprint](../../../sops/product-management/discovery/five-day-design-sprint-framework-001.md)
+
+### Behavioral Design
+- [Three Bs Behavioral Design](../../../sops/product-management/design/three-bs-behavioral-design-framework-001.md)
+- [Friction Audit](../../../sops/product-management/design/behavioral-diagnosis-friction-audit-001.md)
+- [Default Optimization](../../../sops/product-management/design/default-optimization-behavior-change-001.md)
+
+### Delivery Methodology
+- [Shape Up Overview](../../../sops/product-management/delivery/shape-up-methodology-overview-001.md)
+- [Six-Week Cycles](../../../sops/product-management/delivery/six-week-cycles-framework-001.md)
+- [Hill Charts](../../../sops/product-management/delivery/hill-charts-progress-tracking-001.md)
+
+### Roadmapping
+- [Now-Next-Later](../../../sops/product-management/roadmapping/now-next-later-roadmap-framework-001.md)
+- [Stakeholder Alignment](../../../sops/product-management/roadmapping/stakeholder-alignment-roadmaps-001.md)
+- [Feature Request Management](../../../sops/product-management/roadmapping/feature-request-management-001.md)

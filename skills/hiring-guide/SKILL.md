@@ -302,6 +302,19 @@ Every leader needs strength in all three:
 - `/decision-maker` - For making hiring decisions
 
 ## Full SOPs (Deep Dives)
+
+### PM Hiring
 - [First PM Hiring](../../../sops/hiring/first-pm-hiring-001.md)
-- [Hiring Leaders Playbook](../../../sops/hiring/hiring-leaders-playbook-001.md)
+- [PM Hiring Intangibles](../../../sops/hiring/pm-hiring-intangibles-evaluation-001.md)
 - [PM Competencies](../../../sops/product-management/skills/pm-competencies-framework-001.md)
+
+### Leadership Hiring
+- [Hiring Leaders Playbook](../../../sops/hiring/hiring-leaders-playbook-001.md)
+
+### Growth Hiring
+- [Growth Leader Hiring](../../../sops/growth/growth-leader-hiring-framework-001.md)
+- [First Sales Hire](../../../sops/sales/first-sales-hire-process-001.md)
+
+### Career Development
+- [PMwheel Assessment](../../../sops/leadership/pmwheel-competency-assessment-001.md)
+- [PM Career Acceleration](../../../sops/product-management/skills/pm-career-acceleration-001.md)
